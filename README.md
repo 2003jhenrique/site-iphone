@@ -1,4 +1,4 @@
-file:///Z:/SITE_IPHONE/index.html
+(https://2003jhenrique.github.io/site-iphone/)
 
 # site-iphone
 site desenvolvido na aula de introduçao a tecnologia web
