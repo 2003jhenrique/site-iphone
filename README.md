@@ -7,4 +7,4 @@ curso: sistema de informaçao
 intituiçao : unirios
 
 site implementado com HTML e CSS, utilizando a biblioteca jquery
-[https://github.com/2003jhenrique/site-iphone/settings/pages](https://2003jhenrique.github.io/site-iphone/)
+[https://github.com/2003jhenrique/site-iphone/settings/pages]
